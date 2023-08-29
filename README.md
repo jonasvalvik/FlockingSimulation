@@ -5,8 +5,9 @@
 
 <p align="center">
 
-![](https://i.imgur.com/wP6DA9L.gif)
+![flockingGIF](https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/51ed9cad-4201-43a3-8fdf-e7662bd5705e)
 
 </p>
+
 
 
