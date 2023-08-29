@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="https://i.imgur.com/wP6DA9L.gif" >
+![](https://i.imgur.com/wP6DA9L.gif)
 
 </p>
 
