@@ -21,9 +21,9 @@ Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' simulated
     * **Alignment:** The boid steers in the average direction of other local boids.
     * **Cohesion:** The boid steers toward the average position of other local boids
  
-| ![](https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e) | 
+| ![](https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e#center) | 
 |:--:| 
-| *Space* |
+| *Test* |
  
 <p align="center">
 
@@ -31,5 +31,11 @@ Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' simulated
 </p>
 
 
-## Stack<img width="509" alt="Screenshot 2023-08-30 at 11 32 46" src="https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e">
+## Stack
 
+<img width="509" alt="Screenshot 2023-08-30 at 11 32 46" src="https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e">
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
