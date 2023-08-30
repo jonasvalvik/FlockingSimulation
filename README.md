@@ -23,9 +23,9 @@ Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' simulated
 
 <p align="center">
 <img src="https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e" alt="BoidBehavior" width="509">
-
-Illustrated boid behavior of seperation (left), alignment (middle), and cohesion (right)
 </p>
-
+<p align="center">
+Illustrated boid behavior of seperation (left), alignment (middle), and cohesion (right).
+</p>
 
 ## Stack
