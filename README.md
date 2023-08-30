@@ -1,4 +1,4 @@
-# Flocking Simulation - C#
+# Crowd simulation With Flocking Birds - C#
 
 <h1 align="center">Flocking Simulation</h1>
 
@@ -10,4 +10,18 @@
 
 ## Description
 
-Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' boids.
+Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' simulated flocking creatures - boids. 
+
+## Tech Stack
+
+- C#
+
+## Features
+
+* Three adjustable steering behaviours
+    * **Seperation:** The boid steers away from other local boids to avoid collision.
+    * **Alignment:** The boid steers in the average direction of other local boids.
+    * **Cohesion:** The boid steers toward the average position of other local boids
+
+
+## Stack
