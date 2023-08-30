@@ -1,6 +1,4 @@
-# Crowd simulation With Flocking Birds - C#
-
-<h1 align="center">Flocking Simulation</h1>
+<h1 align="center">Crowd simulation With Flocking Birds</h1>
 
 <p align="center">
 
