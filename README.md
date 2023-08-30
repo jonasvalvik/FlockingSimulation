@@ -13,20 +13,22 @@ Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' simulated
 ## Tech Stack
 
 - C#
+- Unity3D (ver 2021.3.3f1)
 
 ## Features
 
-* Three adjustable steering behaviours
+* Three adjustable steering behaviours:
     * **Seperation:** The boid steers away from other local boids to avoid collision.
     * **Alignment:** The boid steers in the average direction of other local boids.
     * **Cohesion:** The boid steers toward the average position of other local boids
 
 <p align="center">
-<img src="https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e" alt="BoidBehavior" width="509"> Illustrated boid behavior of seperation (left), alignment (middle), and cohesion (right).
+<img src="https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/b3c5274e-53e2-47de-a766-fb8f75e8121e" alt="BoidBehavior" width="509"> 
    <p align="center">
       Illustrated boid behavior of seperation (left), alignment (middle), and cohesion (right).
    </p>
 </p>
 
-
-## Stack
+* Environmental collision detection (predator avoidance)
+* Scalable flock sizes
+* Easily applied to any gameobject (bird, fish, horse, etc.)
