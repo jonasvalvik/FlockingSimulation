@@ -1,4 +1,4 @@
-<h1 align="center">Crowd simulation With Flocking Birds</h1>
+<h1 align="center">Crowd Simulation With Flocking Birds</h1>
 
 <p align="center">
 
