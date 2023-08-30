@@ -1,5 +1,11 @@
 <h1 align="center">Crowd Simulation With Flocking Birds</h1>
 
+<h2 align="center">
+
+   Personal Project
+
+</h2>
+
 <p align="center">
 
 <img src="https://github.com/jonasvalvik/FlockingSimulation_Unity/assets/6436680/51ed9cad-4201-43a3-8fdf-e7662bd5705e" >
