@@ -19,7 +19,7 @@ Flocking bird algorithm implemented in Unity. Based on Craig Reynolds' simulated
 ## Tech Stack
 
 - C#
-- Unity3D (ver. 2021.3.3f1)
+- Unity (ver. 2021.3.3f1)
 
 ## Features
 
